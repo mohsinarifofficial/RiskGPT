@@ -1,0 +1,4 @@
+open weather key:
+bd5e378503939ddaee76f12ad7a97608
+new api key :
+5fc1fc6f85d9a0a881a01959bbece325
